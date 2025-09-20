@@ -3,7 +3,7 @@
 Forecast Walmart weekly sales using ARIMA, Prophet, and LSTM models based on historical data.
 
 ## Dataset
-[Walmart Dataset](https://www.kaggle.com/datasets/kyanyoga/sample-sales-data)  
+[Walmart Dataset](https://www.kaggle.com/datasets/yasserh/walmart-dataset)  
 *(Replace with exact dataset you used if different)*
 
 ## Objective
